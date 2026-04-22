@@ -1,0 +1,56 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome": "Mtec-PI Desenvolvimento de Sistemas",
+            "disciplinas":["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id":2,
+            "nome": "Desenvolvimento de Sistemas",
+            "disciplinas":[
+                "Lógica e Linguagem de Programação ",
+                "Modelagem e Desenvolvimento de Banco de Dados",
+                "Programação Front-End",
+                "Programação Back-End",
+                "Programação Mobile",
+                "Carreira e Competências para o Mercado de Trabalho",
+                "Inteligência Artificial e Machine Learning"
+            ],
+            "carga-horaria": 1200 
+        },
+        {
+            "id":3,
+            "nome": "Mtec-N Informática",
+            "disciplinas":[
+            "Análise de Sistemas",	
+            "Gestão de Sistemas Operacionais I",	
+            "Inglês Instrumental",
+            "Instalação e Manutenção de Computadores II",
+            "Linguagens, Tecnologias e Trabalho",	
+            "Lógica de Programação",	
+            "Operação de Software Aplicativos I", 	
+            "Técnicas e Linguagens para Banco de Dados",	
+            "Técnicas de Programação para Internet I"
+            ],
+            "carga-horaria": 1200
+        },
+        {
+            "id":4,
+            "nome": "Mtec-N Informática para Internet",
+            "disciplinas":[
+            "Arte Digital",	
+            "Desenvolvimento e Design de Websites I",
+            "Empreendedorismo",
+            "Gestão de Sistemas Operacionais",	
+            "Inglês Instrumental",	
+            "Instalação e Manutenção de Computadores",	
+            "Linguagem, Trabalho e Tecnologia",	
+            "Lógica de Programação",	
+            "Operação de Softwares Aplicativos I"
+            ],
+            "carga-horaria": 1200
+        }
+    ]
+}
